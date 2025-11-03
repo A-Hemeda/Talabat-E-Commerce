@@ -1,4 +1,4 @@
-# Talabat E-Commerce API
+# E-Commerce API
 
 Welcome to the **Talabat E-Commerce API** - A comprehensive RESTful API built with ASP.NET Core 6.0 for managing an e-commerce platform. This API provides complete functionality for product management, user authentication, shopping baskets, order processing, and payment integration.
 
